@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/c3e0e47c-ecde-4d8b-9797-390767b5bc50" alt="LambdaTest", align="middle">
+![Welcome to my profile](https://github.com/user-attachments/assets/6d075b7e-c525-4cac-b426-22e85a9e5392)
+
 - 🔭 I’m currently working on Cyber Security programs + Facial recognition
 
 - 🌱 I’m currently learning DevOps
