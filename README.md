@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/user-attachments/assets/6d075b7e-c525-4cac-b426-22e85a9e5392">
 </p>
 <p align="center">
-- 🔭 I’m currently working on Cyber Security programs + Facial recognition
+- 🔭 I’m currently working on Cyber Security programs + Face Recognition
 </p>
 <p align="center">
 - 🌱 I’m currently learning DevOps
