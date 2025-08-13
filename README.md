@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/user-attachments/assets/6d075b7e-c525-4cac-b426-22e85a9e5392">
 
   
-# 14-Year-Old Programmer  
+# 14-Year-Old Self Taught Programmer  
 
 **💻 Programmer | Cybersecurity Learner | Network Enthusiast**  
 
