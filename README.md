@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/user-attachments/assets/6d075b7e-c525-4cac-b426-22e85a9e5392">
+<img align="center" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
 
   
 # 14-Year-Old Self Taught Programmer  
