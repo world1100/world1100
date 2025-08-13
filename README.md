@@ -1,7 +1,3 @@
-<p align="center">
-<img align="center" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
-
-  
 # 14-Year-Old Self Taught Programmer  
 
 **💻 Programmer | Cybersecurity Learner | Network Enthusiast**  
@@ -34,3 +30,5 @@ I enjoy experimenting with Linux, Databases, and server environments to understa
 
 > 💡 _"Every bug I fix teaches me something new."_  
 
+<p align="center">
+<img align="center" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
