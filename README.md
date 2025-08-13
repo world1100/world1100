@@ -1,5 +1,7 @@
 <p align="center">
 <img align="center" src="https://github.com/user-attachments/assets/6d075b7e-c525-4cac-b426-22e85a9e5392">
+
+  
 # 14-Year-Old Programmer  
 
 **💻 Programmer | Cybersecurity Learner | Network Enthusiast**  
