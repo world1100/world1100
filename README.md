@@ -1,4 +1,4 @@
-# 14-Year-Old Self Taught Programmer  
+# 14-Year-Old Guy
 
 **💻 Programmer | Cybersecurity Learner | Network Enthusiast**  
 
@@ -28,7 +28,7 @@ I enjoy experimenting with Linux, Databases, and server environments to understa
 - **GitHub:** [world1100](https://github.com/KasraMoradi-0)  
 - **Email:** kasramoradi517@gmail.com  
 
-> 💡 _"Every bug I fix teaches me something new."_  
+> 💡 _"Just run the code one more time, it may run the second time."_  
 
 <p align="center">
 <img align="center" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
